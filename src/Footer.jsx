@@ -1,5 +1,9 @@
 
 
-function Footer(){
-  <p> Author: AGiv </p>
+function Footer() {
+  return (
+    <p>Author: AGiv</p>
+  );
 }
+
+export default Footer;
